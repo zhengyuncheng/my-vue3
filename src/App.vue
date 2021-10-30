@@ -1,7 +1,7 @@
 
 <template>
   <h1>
-    hello world 1
+    hello world2
   </h1>
 </template>
 
